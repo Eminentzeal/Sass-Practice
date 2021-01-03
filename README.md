@@ -23,5 +23,4 @@ Practising sass css prepocessor
 [Click Here to see project live](https://eminent-sass-practice.netlify.app)
 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/28325fde-13a0-4142-8ea6-7dbea8ab69e5/deploy-status)](https://app.netlify.com/sites/eminentezekiel-age-calculator/deploys)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/dab9e0ac-9017-4fad-8fb0-94382ffca006/deploy-status)](https://app.netlify.com/sites/ezekiel-sass-practice/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/28325fde-13a0-4142-8ea6-7dbea8ab69e5/deploy-status)](https://app.netlify.com/sites/eminentezekiel-sass-practice/deploys)
