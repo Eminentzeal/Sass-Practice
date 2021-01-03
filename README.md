@@ -23,4 +23,4 @@ Practising sass css prepocessor
 [Click Here to see project live](https://eminent-sass-practice.netlify.app)
 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/28325fde-13a0-4142-8ea6-7dbea8ab69e5/deploy-status)](https://app.netlify.com/sites/eminentezekiel-sass-practice/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c631b6b5-60c9-4faf-be46-6aaaa5bb3bb3/deploy-status)](https://app.netlify.com/sites/eminent-sass-practice/deploys)
