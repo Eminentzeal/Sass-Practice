@@ -22,5 +22,3 @@ Practising sass css prepocessor
 ## Live Demo
 [Click Here to see project live](https://eminent-sass-practice.netlify.app)
 
-
-[![Netlify Status]
